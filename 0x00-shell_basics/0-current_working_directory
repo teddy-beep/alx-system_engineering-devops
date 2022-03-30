@@ -1,1 +1,2 @@
-"#!/bin/bash"/n"print -f 0-current_working_directory"
+"#!/bin/bash"
+"print -f 0-current_working_directory"
