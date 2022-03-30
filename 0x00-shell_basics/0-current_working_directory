@@ -1,1 +1,2 @@
-readlink -f [file name]
+"#!/bin/bash"
+"file name"
