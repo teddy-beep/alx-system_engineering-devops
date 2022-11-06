@@ -1,2 +1,1 @@
 This project is about Command line for the win
-![0-first_9_tasks](https://user-images.githubusercontent.com/66334023/200190962-e68e17c0-db9a-42f0-85e9-dc3b7554a469.png)
